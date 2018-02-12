@@ -1,3 +1,4 @@
+/*change */
 /* gobject study */
 
 #ifndef __PM_DLIST_H__
